@@ -23,6 +23,7 @@ socket.onmessage = event => {
   // only set it when necessary (upon a map change or when the background is not set)
   if(!shouldBackgroundShow) {
     document.querySelector(".background").style.opacity = 0;
+    backgroundImage = "";
     return;
   }
 
