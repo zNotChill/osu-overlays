@@ -7,7 +7,9 @@ should work
 
 # config
 
-```const config = {
+```js
+const config = {
   showOnlyWhenInMap: true, // the background will ONLY show when you're playing a map if this is true, else it will always show
   opacity: 0.2, // the opacity of the background (0-1, 0 being invisible, 1 being solid)
-}```
+}
+```
