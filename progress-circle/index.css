@@ -1,0 +1,16 @@
+.progress-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.progress-circle {
+  width: 200px;
+  height: 200px;
+}
+.progress-text {
+  font-size: 24px;
+  font-weight: bold;
+  text-anchor: middle;
+  fill: #000;
+}
