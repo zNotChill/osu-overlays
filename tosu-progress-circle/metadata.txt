@@ -1,0 +1,6 @@
+Usecase: obs-overlay
+Name: tosu-progress-circle
+Version: 1.1
+Author: zNotChill
+CompatibleWith: tosu
+Resolution: 180x180
